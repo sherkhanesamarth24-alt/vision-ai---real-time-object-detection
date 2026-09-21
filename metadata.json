@@ -1,0 +1,6 @@
+{
+  "name": "VISION AI - Real-Time Object Detection",
+  "description": "Real-time client-side computer vision and object detection directly in the browser powered by TensorFlow.js and COCO-SSD.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
